@@ -1,0 +1,34 @@
+# Ignore all
+*
+
+# Except these ...
+!.gitignore
+
+!*.py
+!*.ipynb
+!*.r
+!*.R
+
+!*.cpp
+!*.c
+!*.C
+
+!*.asm
+!*.s
+!*.S
+
+!*.sh
+!*.conf
+
+!*.html
+!*.css
+!*.js
+
+!*.sql
+
+!*.md
+
+!Dockerfile
+
+# ...even if they are in subdirectories
+!*/
